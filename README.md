@@ -1,6 +1,6 @@
 # Digital Maps, Bus Routes and Smarter Navigation in Dubai
 
-![Picture background](https://www.timeoutdubai.com/cloud/timeoutdubai/2021/09/12/afFAT7tA-RTA-dubai-google-maps-1.jpg)
+![Picture background](https://media.rbcdn.ru/media/upload_tmp/2023/navigation_horizontal_rus1.png)
 
 Dubai is easy to recognise on a world map, but travelling through individual neighbourhoods can require more thought than simply entering a destination into a phone. Large roads, nearby bus stops, complex junctions and unfamiliar street names can make the final part of a journey more difficult than expected.
 
